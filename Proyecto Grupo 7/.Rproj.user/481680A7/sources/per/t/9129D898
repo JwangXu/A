@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589468314267.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3905090020",
+    "id" : "9129D898",
+    "lastKnownWriteTime" : 1589474895,
+    "last_content_update" : 1589474895568,
+    "path" : "~/R/Proyectos/ProyectoMineria/Modelos/Iteración Final/modeloDWH_it4_2007.R",
+    "project_path" : "Modelos/Iteración Final/modeloDWH_it4_2007.R",
+    "properties" : {
+        "cursorPosition" : "164,42",
+        "scrollLine" : "150"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,1 @@
+El script de Python genera como resultado la carpeta con los JSON de temperatura

@@ -1,0 +1,1618 @@
+{
+    "Id": "e13cf630-1f81-40a1-973a-ad79aa742fa9",
+    "Url": "www.epdata.es/deuda-publica-comparacion-conjunto-comunidades/e13cf630-1f81-40a1-973a-ad79aa742fa9/navarra/307",
+    "Titulo": "Deuda pública en Navarra, Comunidad Foral de en comparación conjunto de comunidades ",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Deuda pública a nivel trimestral - Porcentaje del PIB para total como tipo de administración pública y Navarra como comunidad autónoma",
+                "SonDatosNumericos": true,
+                "Fuente": "Banco de España",
+                "Clasificacion": null,
+                "Unidad": "Porcentaje del PIB",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1995",
+                        "Valor": 9.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 10.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 10.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 10.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1996",
+                        "Valor": 9.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 11,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 9.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 9.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1997",
+                        "Valor": 9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 9.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 8.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 8.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1998",
+                        "Valor": 8.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 9.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 8.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 7.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1999",
+                        "Valor": 7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2000",
+                        "Valor": 6.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 5.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2001",
+                        "Valor": 5.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 5.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 5.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2002",
+                        "Valor": 5.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 5.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2003",
+                        "Valor": 5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 4.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 4.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 4.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2004",
+                        "Valor": 4.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 4.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 4.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 4.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2005",
+                        "Valor": 4.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 4.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 4.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 4.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2006",
+                        "Valor": 4.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 3.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 3.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2007",
+                        "Valor": 3.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 3.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 3.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 3.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2008",
+                        "Valor": 3.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 3.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 3.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 4.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2009",
+                        "Valor": 4.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 5.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2010",
+                        "Valor": 8.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 8.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 8.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 9.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2011",
+                        "Valor": 10.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 10.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 11.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 13.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2012",
+                        "Valor": 15.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 16.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 16.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 16.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2013",
+                        "Valor": 17.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 18.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 18.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 17.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2014",
+                        "Valor": 20.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 19,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 18.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 17.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2015",
+                        "Valor": 18.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 19.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 19.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 17.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2016",
+                        "Valor": 18.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 20.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 19.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 18.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2017",
+                        "Valor": 19.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 19.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 19.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 18.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2018",
+                        "Valor": 17.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 18.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 18.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 16.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2019",
+                        "Valor": 16.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 16.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 16,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            },
+            {
+                "Id": 1,
+                "Nombre": "Deuda pública a nivel trimestral - Porcentaje del PIB para comunidad autónoma como tipo de administración pública y España como país",
+                "SonDatosNumericos": true,
+                "Fuente": "Banco de España",
+                "Clasificacion": null,
+                "Unidad": "Porcentaje del PIB",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1995",
+                        "Valor": 5.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 5.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 5.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1996",
+                        "Valor": 5.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1997",
+                        "Valor": 6.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1998",
+                        "Valor": 6.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "1999",
+                        "Valor": 6.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2000",
+                        "Valor": 6.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2001",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2002",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2003",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2004",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2005",
+                        "Valor": 6.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 6.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2006",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 5.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 5.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2007",
+                        "Valor": 5.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 5.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 5.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2008",
+                        "Valor": 5.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 5.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 6.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2009",
+                        "Valor": 7.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 8.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 8.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2010",
+                        "Valor": 9.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 10.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 10.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 11.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2011",
+                        "Valor": 12.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 13,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 13.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 13.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2012",
+                        "Valor": 14.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 16.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 16.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 18.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2013",
+                        "Valor": 18.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 19.2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 19.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 20.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2014",
+                        "Valor": 22,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 22.3,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 22.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 22.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2015",
+                        "Valor": 23.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 23.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 23.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 24.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2016",
+                        "Valor": 24.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 24.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 24.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 24.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2017",
+                        "Valor": 24.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 25,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 24.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 24.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2018",
+                        "Valor": 24.7,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 24.8,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 24.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Trimestre 4",
+                        "Valor": 24.4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 1",
+                        "Parametro": "2019",
+                        "Valor": 24.5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 2",
+                        "Parametro": "Trimestre 2",
+                        "Valor": 24.6,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Trimestre 3",
+                        "Parametro": "Trimestre 3",
+                        "Valor": 24.1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
